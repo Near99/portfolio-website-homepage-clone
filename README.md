@@ -2,4 +2,4 @@
 
 Incomplete and it's not responsive.
 
-demo https://near99.github.io/portfolio-website-homepage-clone/
+demo: https://near99.github.io/portfolio-website-homepage-clone/
